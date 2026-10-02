@@ -1,17 +1,19 @@
+# 👋 Hi, I'm Notgrizy
 
-# I have been working on thumbnailing for more than 4 years. The efforts and experience I have is far more than anything.
+### 🛠️ What I Do
+- 🤖 **Bot Development:** Building custom Discord bots with custom prefixes, moderation tools, and interactive commands.
+- ⚙️ **Discord Management:** Setting up servers, organizing staff systems, managing permissions, and building active communities.
+- 🎨 **Minecraft Thumbnails:** Designing eye-catching, high-quality thumbnails for Minecraft servers, videos, and events.
 
-<!--
-**Notgrizy/Notgrizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Get in Touch
+- **Discord:** `notgrizy`
