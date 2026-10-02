@@ -1,4 +1,5 @@
-## Hi there 👋
+
+# I have been working on thumbnailing for more than 4 years. The efforts and experience I have is far more than anything.
 
 <!--
 **Notgrizy/Notgrizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
